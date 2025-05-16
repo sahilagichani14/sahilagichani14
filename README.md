@@ -16,13 +16,12 @@
 
 ###
 
-<h1 align="center">Hello Visitor!!👋</h1>
-
-###
-
-<h1 align="center">Hi 👋, I'm Sahil Agichani</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sahil+Agichani!;" />
+</h1>
 <h3 align="center">A passionate Java Full Stack developer;</h3>
 
+###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilagichani14&label=Profile%20views&color=0e75b6&style=flat" alt="sahilagichani14" /> </p>
 
 - 🌱 I’m currently learning **everything that's trending but mostly Java Backend**
@@ -58,20 +57,18 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilagichani14&show_icons=true&locale=en&layout=compact" alt="sahilagichani14" /></p>
+<!--
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilagichani14&show_icons=true&locale=en&layout=compact" alt="sahilagichani14" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilagichani14&show_icons=true&locale=en" alt="sahilagichani14" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilagichani14&" alt="sahilagichani14" /></p>
+ <br clear="both">
+ <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> 
+--->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilagichani14&show_icons=true&locale=en" alt="sahilagichani14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilagichani14&" alt="sahilagichani14" /></p>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <!--
 **sahilagichani14/sahilagichani14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -80,6 +77,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
- -> https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
 -->
